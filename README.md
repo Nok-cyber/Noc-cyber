@@ -10,6 +10,13 @@ Institution: University of Benin, Benin City
 Graduated: 2024
 Second Class Upper (2:1)
 
+### Certifications
+
+* **Data Analysis** — Techie Academy
+* **WordPress Website Development** — Webbits Technologies
+* **AI Automation** — Webbits Technologies
+
+
 ## Professional Profile
 
 **AI Automation Specialist**
