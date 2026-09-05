@@ -1,92 +1,107 @@
-# Adurotimi Erioluwadamiloju
+# ADUROTIMI ERIOLUWADAMILOJU
+
+**Data Analyst | SQL | Excel | Data Cleaning | Business Insights**
 
 Nigeria | Email: [eridlusking@gmail.com](mailto:eridlusking@gmail.com) | Phone: 08137120579
 LinkedIn: [www.linkedin.com/in/erioluwa-enoch-090964306](http://www.linkedin.com/in/erioluwa-enoch-090964306)
 
-## Education
+---
 
-**Bachelor of Arts (B.A.): Theatre Arts**
-Institution: University of Benin, Benin City
-Graduated: 2024
-Second Class Upper (2:1)
+## PROFESSIONAL PROFILE
 
-### Certifications
+Detail-oriented and analytical **Data Analyst** with a background in Theatre Arts and a growing professional foundation in data analysis, business intelligence, and data-driven decision-making. Skilled in transforming raw and structured datasets into meaningful information that can support better business decisions.
 
-* **Data Analysis** — Techie Academy
-* **WordPress Website Development** — Webbits Technologies
-* **AI Automation** — Webbits Technologies
+Experienced in working with **Excel and SQL/MySQL** to clean, organize, query, analyze, and interpret data. Strong understanding of relational databases, data filtering, aggregation, joins, subqueries, Common Table Expressions (CTEs), and window functions. Able to approach datasets from a problem-solving perspective—asking the right questions, identifying patterns, and translating analytical findings into clear and understandable insights.
 
+My background in Theatre Arts has also strengthened my communication, research, presentation, collaboration, and storytelling abilities. I bring these skills into data analysis by focusing not only on what the numbers show, but also on **how those findings can be communicated clearly to people who need to act on them**.
 
-## Professional Profile
+Currently building practical experience through data analysis projects involving real-world datasets, with a strong interest in using data to understand business performance, identify problems, uncover patterns, and support informed decision-making.
 
-**AI Automation Specialist**
-**AI Workflow & Intelligent Automation Specialist**
+**Core strengths:** analytical thinking, problem-solving, data interpretation, research, communication, attention to detail, and continuous learning.
 
-## Relevant Expertise and Focus Areas
+---
 
-* AI automation systems and intelligent workflow design
-* AI agents and automated business processes
-* Workflow automation using n8n
-* API integrations and system connectivity
-* Customer support and lead-generation automation
-* AI-powered content and business process automation
-* Data processing and automated reporting
-* Process optimisation and reduction of repetitive tasks
-* Google Sheets, CRM, and database integrations
-* AI-assisted decision-making and workflow design
+## CORE DATA ANALYSIS SKILLS
 
-## Experience
+* **Data Analysis:** Data Cleaning, Data Validation, Exploratory Data Analysis, Data Interpretation
+* **SQL:** MySQL, SELECT Statements, Filtering, Sorting, Aggregation, GROUP BY, JOINs, Subqueries, CTEs, Window Functions
+* **Microsoft Excel:** XLOOKUP, INDEX & MATCH, SUMIF, SUMIFS, COUNTIF, COUNTIFS, Logical Functions, Text Functions, Date & Time Functions, Pivot Tables, Conditional Formatting
+* **Data Reporting:** Data Summarization, KPI Analysis, Business Reporting, Insight Generation
+* **Database Concepts:** Relational Databases, Tables, Relationships, Data Queries
+* **Analytical Thinking:** Pattern Identification, Problem Solving, Trend Analysis, Business Question Development
+* **Communication:** Data Storytelling, Research, Presentation, Documentation
 
-### AI Automation Specialist
+---
 
-**NokCyber Technology**
-Nigeria | Remote
-2022 – Present
+## PROJECT EXPERIENCE
 
-Designed and developed AI-powered automation workflows to streamline repetitive business processes and improve operational efficiency.
+### MD Water Services — SQL Data Analysis Project
 
-Built intelligent workflows using AI agents, n8n, APIs, webhooks, Google Sheets, and other business applications.
+**Tools:** MySQL / SQL
 
-Integrated AI tools with existing systems to automate tasks including customer engagement, lead collection, information processing, reporting, and content workflows.
+Conducted a structured analysis of a real-world water services dataset to investigate water sources, service visits, water quality, and related operational patterns.
 
-Designed automated customer support and lead-management processes to capture information, organize customer data, and support timely follow-up.
+* Explored and queried relational datasets to understand relationships between water sources, visits, and water quality information.
+* Used **SQL JOINs** to combine information from multiple related tables for deeper analysis.
+* Applied filtering and aggregation techniques to identify relevant records and summarize findings.
+* Used **subqueries and Common Table Expressions (CTEs)** to break down complex analytical problems into manageable steps.
+* Applied **window functions** to perform advanced analysis across related records without losing row-level information.
+* Investigated water quality records and service-visit patterns to answer specific operational questions from the dataset.
+* Practiced identifying data inconsistencies and resolving SQL query issues involving ambiguous columns and complex table relationships.
+* Translated SQL results into meaningful observations that could support better understanding of water service operations.
 
-Developed workflows that connect multiple applications and move information automatically between systems, reducing the need for repetitive manual tasks.
+**Key Learning:**
+This project strengthened my ability to move beyond writing SQL syntax and instead use SQL to investigate a real-world problem, connect multiple datasets, and derive meaningful insights from structured data.
 
-Applied AI agents to research, process information, generate structured outputs, and support business workflows.
+---
 
-Tested and optimized automation workflows to improve reliability, efficiency, and overall user experience.
+## CERTIFICATION
 
-Provided guidance on practical AI adoption, workflow design, and responsible use of AI tools.
+**Data Analysis — Techie Academy**
+
+---
+
+## EDUCATION
+
+### Bachelor of Arts (B.A.) — Theatre Arts
+
+**University of Benin, Benin City, Nigeria**
+Graduated: **2024**
+
+Second Class Upper Division (2:1)
+
+**Relevant strengths developed:** Research, communication, critical thinking, presentation, teamwork, project coordination, creative problem-solving, and analytical thinking.
+
+---
+
+## PROFESSIONAL EXPERIENCE
 
 ### Web & Digital Systems Manager
 
-**Uniben Cross Current Journal**
-University of Benin, Benin City | Remote
-2024 – Present
+**NokCyber Technology / Uniben Cross Current Journal**
+Nigeria | 2022 – Present
 
-Managed digital systems and website operations while identifying opportunities to improve repetitive processes through technology and automation.
+* Managed digital platforms and online systems, requiring attention to detail, structured problem-solving, and continuous monitoring.
+* Worked with website data and digital information to support content organization, reporting, and operational decision-making.
+* Conducted research and troubleshooting to identify and resolve technical and information-related issues.
+* Collaborated with teams and communicated technical information in a clear and understandable manner.
+* Developed strong organizational and analytical skills through managing multiple digital projects and responsibilities.
 
-Integrated digital tools and workflows to improve content management, publishing, communication, and online operations.
+---
 
-Applied problem-solving and technical skills to troubleshoot digital systems and improve workflow efficiency.
+## ADDITIONAL PROFESSIONAL STRENGTHS
 
-Supported the development and maintenance of web-based systems and digital platforms.
+* Strong research and information-gathering ability
+* Excellent written and verbal communication
+* Problem-solving and critical-thinking mindset
+* Ability to learn new analytical tools quickly
+* Attention to detail and data accuracy
+* Ability to explain technical findings in simple language
+* Team collaboration and project coordination
+* Strong interest in continuous professional development
 
-## Selected AI Automation Projects
+---
 
-**AI Customer Support Automation**
-Designed an AI-powered customer support workflow capable of receiving customer enquiries, processing requests, generating responses, and escalating relevant issues.
+## CAREER INTEREST
 
-**Automated Lead Capture & Management**
-Built an automation workflow that captures lead information, structures the data, stores it in Google Sheets, and supports automated follow-up processes.
-
-**AI Content Automation Workflow**
-Designed an AI-powered workflow that researches topics, generates structured content, creates image-generation prompts, and prepares content for publishing.
-
-**AI Research & Information Processing Workflow**
-Built workflows that use AI agents to process information, perform structured research, and return organized outputs for business and content-related tasks.
-
-## Overall Fit for the Role
-
-Erioluwadamiloju combines AI tools, workflow automation, digital systems experience, and practical problem-solving skills to design automation solutions that reduce repetitive work and improve business processes. His experience with AI agents, n8n, APIs, integrations, customer support workflows, and lead automation makes him well suited for roles focused on AI automation, intelligent workflows, and business process optimisation.
+Seeking opportunities as a **Data Analyst, Junior Data Analyst, Data Reporting Analyst, or Business/Data Analytics professional**, where I can apply SQL, Excel, data analysis, research, and problem-solving skills to real-world business problems while continuing to develop professionally.
