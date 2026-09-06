@@ -1,4 +1,4 @@
-# ADUROTIMI ERIOLUWADAMILOJU
+# I am ADUROTIMI ERIOLUWADAMILOJU
 
 **Data Analyst | SQL | Excel | Data Cleaning | Business Insights**
 
